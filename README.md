@@ -10,7 +10,7 @@
 			}
 			
 		</style>
-		<link rel="stylesheet" href="css/111.jpg">
+		<link rel="stylesheet" href="111.jpg">
 	</head>
 	<body>
 		<h2>作业1</h2>
@@ -21,7 +21,7 @@
 			<div class="a3">图文混排</div>
 			<div>
 				<div class="a4">
-					<img src="img/111.jpg" width="300" height="400">
+					<img src="111.jpg" width="300" height="400">
 					<h2>Web前端设计基础教程</h2>
 					<p>本书是一本基于Web标准的运用CSS制作网站的教程。本书由吴丰编写，全书以实践为主，从理论到实践，使读者重新认识网页制作过程。</p>
 				</div>
